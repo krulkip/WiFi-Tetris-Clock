@@ -1,8 +1,8 @@
 # WiFi-Tetris-Clock
 A WiFi clock made of falling tetris blocks. Runs on an ESP32 with an RGB LED Matrix (Currently the EPS8266 version is crashing!)<br/>
 Added files to enable full screen scrolling for 64x64 pixel matrix display using Brian Lough ESP332 board.<br/>
-It scrolls smoothly.
-
+It scrolls smoothly. Bought from this site <br/>
+https://www.aliexpress.com/item/10000028391320.html?spm=a2g0s.9042311.0.0.27424c4dvg3kV9
 ![img](https://thumbs.gfycat.com/RecklessSpecificKoodoo-size_restricted.gif)
 ![img](https://github.com/krulkip/WiFi-Tetris-Clock/blob/master/Movie-0%20(1).gif)
 
